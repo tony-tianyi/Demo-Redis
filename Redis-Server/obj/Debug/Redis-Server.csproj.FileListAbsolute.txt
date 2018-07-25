@@ -1,0 +1,11 @@
+c:\users\banu-xtkf01\documents\visual studio 2013\Projects\Redis-Server\Redis-Server\bin\Debug\Redis-Server.exe.config
+c:\users\banu-xtkf01\documents\visual studio 2013\Projects\Redis-Server\Redis-Server\bin\Debug\Redis-Server.exe
+c:\users\banu-xtkf01\documents\visual studio 2013\Projects\Redis-Server\Redis-Server\bin\Debug\Redis-Server.pdb
+c:\users\banu-xtkf01\documents\visual studio 2013\Projects\Redis-Server\Redis-Server\bin\Debug\ServiceStack.dll
+c:\users\banu-xtkf01\documents\visual studio 2013\Projects\Redis-Server\Redis-Server\bin\Debug\ServiceStack.Interfaces.dll
+c:\users\banu-xtkf01\documents\visual studio 2013\Projects\Redis-Server\Redis-Server\bin\Debug\ServiceStack.ServiceInterface.dll
+c:\users\banu-xtkf01\documents\visual studio 2013\Projects\Redis-Server\Redis-Server\obj\Debug\Redis-Server.csprojResolveAssemblyReference.cache
+c:\users\banu-xtkf01\documents\visual studio 2013\Projects\Redis-Server\Redis-Server\obj\Debug\Redis-Server.exe
+c:\users\banu-xtkf01\documents\visual studio 2013\Projects\Redis-Server\Redis-Server\obj\Debug\Redis-Server.pdb
+C:\Users\Banu-XTKF01\Documents\Visual Studio 2013\Projects\Redis-Server\Redis-Server\bin\Debug\StackExchange.Redis.dll
+C:\Users\Banu-XTKF01\Documents\Visual Studio 2013\Projects\Redis-Server\Redis-Server\bin\Debug\StackExchange.Redis.xml
